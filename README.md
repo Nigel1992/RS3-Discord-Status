@@ -20,7 +20,6 @@ This Python script allows you to update your Discord Rich Presence status based 
     ```
 
 3. Replace `'REPLACEWITHYOURCLIENTID'` in the script with your actual Discord application's client ID.
-4. Create an `images` folder in the same directory as the script and add PNG images corresponding to the activities you want to track (e.g., `agility.png`, `fishing.png`, etc.).
 
 ## Usage
 
@@ -34,7 +33,7 @@ This Python script allows you to update your Discord Rich Presence status based 
 3. When an image is detected, it will update your Discord Rich Presence status with the relevant activity name and a timer.
 
 ## Customization
-
+[currently based on 1920x1080]
 - Adjust the `region` variable in the script to match the coordinates of the area where you expect the images to appear.
 - Update the `emoji_map` dictionary with the appropriate emoji and activity names for your images.
 
