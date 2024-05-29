@@ -52,7 +52,7 @@ In your Python script (or any other language), use the asset names you provided 
 1. Run the script:
 
     ```bash
-    python main.py
+    python Updater.py
     ```
 
 2. The script will monitor the specified region of your screen for the images you've added.
