@@ -8,6 +8,10 @@ This Python script allows you to display your RuneScape 3 activities on your Dis
 It monitors a specific region of your screen for in-game images and updates your Discord status accordingly.  
 ![image](https://github.com/Nigel1992/RS3-Discord-Status/assets/5491930/af29c507-66f6-4367-9f66-e40b30d6cae7)
 
+## TO-DO
+
+1. Make the script read the current in-game level of detected skill and use in Discord Status.
+2. Let it recognize the skill without need for screen coordinates.
 
 ## Prerequisites
 
