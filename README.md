@@ -1,14 +1,14 @@
-# Discord Rich Presence with Image Recognition
+# RuneScape 3 Discord Rich Presence Integration
 
 ![image](https://github.com/Nigel1992/RS3-Discord-Status/assets/5491930/de469f47-c284-40db-b5a9-95e9d44e117e)
 
-This Python script allows you to update your Discord Rich Presence status based on image recognition. It monitors a specific region of your screen for certain images and displays relevant information on your Discord profile.
+
+This Python script allows you to display your RuneScape 3 activities on your Discord profile using Rich Presence. It monitors a specific region of your screen for in-game images and updates your Discord status accordingly.
 
 ## Prerequisites
 
-- Python 3.x installed on your system
-- Discord account and a registered application with a client ID
-- Images related to the activities you want to track (e.g., "agility.png", "fishing.png", etc.)
+1. **Python 3.x** installed on your system.
+2. A **Discord account** and a registered application with a **client ID**. [https://discord.com/developers/applications]
 
 ## Setup
 
@@ -33,14 +33,14 @@ This Python script allows you to update your Discord Rich Presence status based 
 3. When an image is detected, it will update your Discord Rich Presence status with the relevant activity name and a timer.
 
 ## Customization
-[currently based on 1920x1080]
-- Adjust the `region` variable in the script to match the coordinates of the area where you expect the images to appear.
+
+- Adjust the `region` variable in the script to match the coordinates of the area where you expect the RuneScape 3 activity images to appear.
 - Update the `emoji_map` dictionary with the appropriate emoji and activity names for your images.
 
 ## Notes
 
 - Make sure your Discord application is running while using this script.
 - You can customize the large image key (e.g., `'rslogo'`) to match your Discord assets.
+- See: https://discord.com/developers/applications/YOURAPPID/rich-presence/assets]
 
 Feel free to modify and enhance this script according to your needs! 😊
-
