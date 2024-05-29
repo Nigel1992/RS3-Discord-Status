@@ -15,6 +15,7 @@ It monitors a specific region of your screen for in-game images and updates your
 
 <details>
   <summary>How-to</summary>
+  
 **Adding Discord Developer Assets**
 1. Go to the Discord Developer Portal.
 2. Create a new application or select an existing one.
