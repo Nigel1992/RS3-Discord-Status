@@ -15,13 +15,6 @@ It monitors a specific region of your screen for in-game images and updates your
 
 <details>
   <summary>How-to</summary>
-  
-**Enable Developer Mode in Discord**
-1. Launch Discord either in the web browser or on the desktop app.
-2. Select the Gear Icon at the lower-left corner.
-3. Choose “Advanced” from under “App Settings” in the left sidebar.
-4. On the right panel, enable the Developer Mode option1.
-
 **Adding Discord Developer Assets**
 1. Go to the Discord Developer Portal.
 2. Create a new application or select an existing one.
