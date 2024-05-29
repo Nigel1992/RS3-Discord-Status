@@ -3,8 +3,9 @@
 ![image](https://github.com/Nigel1992/RS3-Discord-Status/assets/5491930/de469f47-c284-40db-b5a9-95e9d44e117e)
 
 
-This Python script allows you to display your RuneScape 3 activities on your Discord profile using Rich Presence. It monitors a specific region of your screen for in-game images and updates your Discord status accordingly.
-I.e: ![image](https://github.com/Nigel1992/RS3-Discord-Status/assets/5491930/af29c507-66f6-4367-9f66-e40b30d6cae7)
+This Python script allows you to display your RuneScape 3 activities on your Discord profile using Rich Presence.
+It monitors a specific region of your screen for in-game images and updates your Discord status accordingly.
+![image](https://github.com/Nigel1992/RS3-Discord-Status/assets/5491930/af29c507-66f6-4367-9f66-e40b30d6cae7)
 
 
 ## Prerequisites
