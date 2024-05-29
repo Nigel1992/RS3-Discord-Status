@@ -8,7 +8,30 @@ This Python script allows you to display your RuneScape 3 activities on your Dis
 ## Prerequisites
 
 1. **Python 3.x** installed on your system.
-2. A **Discord account** and a registered application with a **client ID**. [https://discord.com/developers/applications]
+2. A **Discord account** and a registered application with a **client ID**. [see spoiler for details]
+
+<details>
+  <summary>How-to</summary>
+  
+**Enable Developer Mode in Discord**
+1. Launch Discord either in the web browser or on the desktop app.
+2. Select the Gear Icon at the lower-left corner.
+3. Choose “Advanced” from under “App Settings” in the left sidebar.
+4. On the right panel, enable the Developer Mode option1.
+
+**Adding Discord Developer Assets**
+1. Go to the Discord Developer Portal.
+2. Create a new application or select an existing one.
+3. Navigate to the “Rich Presence” tab.
+4. Scroll down to the “Assets” section.
+5. Click on “Add Image(s)” to upload your custom images (these can be icons, logos, or other graphics).
+6. You’ll need to provide a name for each asset. This name will be used when referencing the asset in your code.
+7. After uploading, you’ll see your assets listed under “Rich Presence Assets” on the same page.
+
+**Using Your Assets in Code**
+In your Python script (or any other language), use the asset names you provided in the developer portal.
+  
+</details>
 
 ## Setup
 
