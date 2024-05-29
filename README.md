@@ -21,9 +21,10 @@ It monitors a specific region of your screen for in-game images and updates your
 2. Create a new application or select an existing one.
 3. Navigate to the “Rich Presence” tab.
 4. Scroll down to the “Assets” section.
-5. Click on “Add Image(s)” to upload your custom images (these can be icons, logos, or other graphics)(this will be your Logo below "Playing a game).
-6. You’ll need to provide a name for each asset. This name will be used when referencing the asset in your code.
-7. After uploading, you’ll see your assets listed under “Rich Presence Assets” on the same page.
+5. Click on “Add Image(s)” to upload your custom images (these can be icons, logos, or other graphics)
+   (this will be your Logo below "Playing a game").
+7. You’ll need to provide a name for each asset. This name will be used when referencing the asset in your code.
+8. After uploading, you’ll see your assets listed under “Rich Presence Assets” on the same page.
 
 **Using Your Assets in Code**
 In your Python script (or any other language), use the asset names you provided in the developer portal.
