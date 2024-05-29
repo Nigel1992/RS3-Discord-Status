@@ -1,5 +1,5 @@
 # RuneScape 3 Discord Rich Presence Integration
-[made with help from AI]
+Contact me on Discord: nigel.92
 
 ![image](https://github.com/Nigel1992/RS3-Discord-Status/assets/5491930/de469f47-c284-40db-b5a9-95e9d44e117e)
 
@@ -68,5 +68,6 @@ In your Python script (or any other language), use the asset names you provided 
 - Make sure your Discord application is running while using this script.
 - You can customize the large image key (e.g., `'rslogo'`) to match your Discord assets.
 - See: https://discord.com/developers/applications/YOURAPPID/rich-presence/assets
+- Made with help from AI
 
 Feel free to modify and enhance this script according to your needs! 😊
