@@ -78,13 +78,13 @@ In your Python script (or any other language), use the asset names you provided 
 ## Customization
 
 - Adjust the `region` variable in the script to match the coordinates of the area where you expect the RuneScape 3 activity images to appear.
-- Update the `emoji_map` dictionary with the appropriate emoji and activity names for your images.
+- Update the emojis with the appropriate emoji and activity names for your images.
 
 ## Notes
 
 - Make sure your Discord application is running while using this script.
 - You can customize the large image key (e.g., `'rslogo'`) to match your Discord assets.
-- See: https://discord.com/developers/applications/YOURAPPID/rich-presence/assets
+  See: https://discord.com/developers/applications/YOURAPPID/rich-presence/assets
 - Made with help from AI
 
 Feel free to modify and enhance this script according to your needs! 😊
