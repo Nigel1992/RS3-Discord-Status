@@ -9,6 +9,12 @@ This Python script allows you to display your RuneScape 3 activities on your Dis
 It monitors a specific region of your screen for in-game images and updates your Discord status accordingly.  
 ![image](https://github.com/Nigel1992/RS3-Discord-Status/assets/5491930/af29c507-66f6-4367-9f66-e40b30d6cae7)
 
+## Just want to use it instantly? [Compiled .exe]
+1. Simply go to the releases tab and download latest version.
+2. Extract all archive contents into a new folder.
+3. Run the .exe and input your info [will be auto saved/loaded (using settings.json)]
+4. Enjoy!
+
 
 ### Changelog
 
@@ -57,11 +63,6 @@ In your Python script (or any other language), use the asset names you provided 
 
 3. Replace `'REPLACEWITHYOURCLIENTID'` in the script with your actual Discord application's client ID.
 
-## Setup [Compiled .exe]
-1. Simply go to the releases tab and download latest version.
-2. Extract all archive contents into a new folder.
-3. Run the .exe and input your info [will be auto saved/loaded (using settings.json)]
-4. Enjoy!
 
    
 ## Usage
