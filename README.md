@@ -45,7 +45,7 @@ In your Python script (or any other language), use the asset names you provided 
   
 </details>
 
-## Setup
+## Setup [python script]
 
 1. Clone this repository to your local machine.
 2. Install the required Python packages using pip:
@@ -56,6 +56,13 @@ In your Python script (or any other language), use the asset names you provided 
 
 3. Replace `'REPLACEWITHYOURCLIENTID'` in the script with your actual Discord application's client ID.
 
+## Setup [Compiled .exe]
+1. Simply go to the releases tab and download latest version.
+2. Extract all archive contents into a new folder.
+3. Run the .exe and input your info [will be auto saved/loaded]
+4. Enjoy!
+
+   
 ## Usage
 
 1. Run the script:
