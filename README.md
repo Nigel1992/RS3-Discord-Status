@@ -60,7 +60,7 @@ In your Python script (or any other language), use the asset names you provided 
 ## Setup [Compiled .exe]
 1. Simply go to the releases tab and download latest version.
 2. Extract all archive contents into a new folder.
-3. Run the .exe and input your info [will be auto saved/loaded]
+3. Run the .exe and input your info [will be auto saved/loaded (using settings.json)]
 4. Enjoy!
 
    
