@@ -16,7 +16,7 @@ It monitors a specific region of your screen for in-game images and updates your
 4. Enjoy!
 
 
-### Changelog
+## Changelog
 
 #### Pre-release - Version 0.1 (2024-06-30)
 - Added an GUI for easier usage.
