@@ -29,12 +29,16 @@ It monitors a specific region of your screen for in-game images and updates your
 1. Make the script read the current in-game level of detected skill and use in Discord Status.
 2. Let it recognize the skill without need for screen coordinates.
 
+
+
+
+
+## Setup [python script]
 ## Prerequisites
 
 1. **Python 3.x** installed on your system.
 2. A **Discord account** and a registered application with a **client ID**. [see spoiler for details]
-
-<details>
+   <details>
   <summary>How-to</summary>
   
 **Adding Discord Developer Assets**
@@ -52,8 +56,7 @@ In your Python script (or any other language), use the asset names you provided 
   
 </details>
 
-## Setup [python script]
-
+   
 1. Clone this repository to your local machine.
 2. Install the required Python packages using pip:
 
