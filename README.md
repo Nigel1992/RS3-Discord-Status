@@ -38,6 +38,7 @@ It monitors a specific region of your screen for in-game images and updates your
 
 1. **Python 3.x** installed on your system.
 2. A **Discord account** and a registered application with a **client ID**. [see spoiler for details]
+   
    <details>
   <summary>How-to</summary>
   
